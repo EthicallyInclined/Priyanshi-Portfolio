@@ -2,7 +2,7 @@
 
 A single-page, story-driven personal portfolio built with 3D visuals and scroll-based animation.
 
-🔗 **Live site:** _add your deployed link here (e.g. GitHub Pages / Netlify / Vercel)_
+🔗 **Live site:** https://priyanshibishtportfolio.netlify.app/
 
 ## About
 
@@ -10,7 +10,7 @@ This site walks visitors through Priyanshi's journey as a Data Analyst — from 
 
 ## Tech Stack
 
-- **HTML5 / CSS3** — layout, responsive design, monochrome theme
+- **HTML5** — layout, responsive design, monochrome theme
 - **[Three.js](https://threejs.org/)** (r128) — 3D particle field background + rotating "insight core" hero visual
 - **[GSAP](https://gsap.com/) + ScrollTrigger** — scroll-based reveal animations and timeline progress
 - **Vanilla JavaScript** — cursor-based 3D tilt on cards, mouse-reactive 3D scene
@@ -56,7 +56,7 @@ open index.html   # or double-click the file
 This is a static site, so it works out of the box with:
 
 - **GitHub Pages** — enable Pages on this repo, set source to `main` branch / root, done.
-- **Netlify / Vercel** — drag-and-drop the folder or connect the repo.
+- **Netlify** — drag-and-drop the folder or connect the repo.
 
 ## Contact
 
