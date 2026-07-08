@@ -21,7 +21,8 @@ No build step or dependencies required — it's a static `index.html` with all J
 
 ```
 priyanshi-portfolio/
-├── index.html          # Entire site: markup, styles, and scripts
+├── index.html           # Entire site: markup, styles, and scripts
+├── index_v1.0.html      # Redesigned Portfolio 
 ├── assets/
 │   ├── photo.jpg        # Profile photo used in the About section
 │   └── resume.pdf       # Downloadable resume (linked from Hero + Contact buttons)
